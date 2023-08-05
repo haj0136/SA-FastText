@@ -1,7 +1,7 @@
 ## Sentiment Analysis experiments with FastText
 
 All experiments are implemented in Python 3.7
-Except for Experiment3_amazon, all experiments use a Jupiter laptop
+Except for Experiment3_amazon, all experiments use a Jupiter notebook
 
 Libraries used:
 pandas 1.0.2
